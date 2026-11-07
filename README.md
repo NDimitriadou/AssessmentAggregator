@@ -259,6 +259,7 @@ tests/ReadInEveryWeatherAggregator.Tests/
 
 docs/
   ReadInEveryWeatherAggregator_Usage.pptx
-  EXAM_GUIDE.md
+A short presentation of what is done
+  
 Final note
-The purpose of the project is not to build a full reading or weather platform. It is to demonstrate how a .NET service can integrate multiple external APIs in a way that is extensible, concurrent, resilient, observable, an
+The purpose of the project is not to build a full reading or weather platform. It is to demonstrate how a .NET service can integrate multiple external APIs in a way that is extensible, concurrent, resilient, observable and easy to test
